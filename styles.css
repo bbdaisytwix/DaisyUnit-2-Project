@@ -1,0 +1,42 @@
+
+h1{
+    text-align:center;
+}
+
+img{
+  height:  245px;  
+}
+
+
+h2{
+    text-align:center;
+}
+
+
+.container {
+  display: flex;
+  justify-content: space-around;
+}
+
+
+
+.section{
+    border: 5px brown solid;
+    margin:5px;
+    padding: 5px;
+}
+h3{
+    font-size: 20px;
+}
+p{ 
+    font-size: 19px;
+}
+h4{
+    font-size: 30px;
+}
+
+body {
+    background-color:black;
+    color: white;
+    padding: 128px 16px;
+}
